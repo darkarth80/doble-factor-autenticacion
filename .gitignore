@@ -1,6 +1,15 @@
 # Compiled class file
 *.class
 
+# Other files and directories
+.classpath
+.factorypath
+.project
+.vscode/
+.sts4-cache/
+.settings/
+target/
+
 # Log file
 *.log
 
